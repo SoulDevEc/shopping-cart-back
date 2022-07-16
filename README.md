@@ -1,6 +1,6 @@
 # Basic Shopping cart Spring Boot
 <h2>Basic Spring Boot shopping cart and JWT in cookies http only authentication</h2>
-<h3><b>Remember create roles in database before test register endpoint</b></h3>
+<h3><b>Remember create roles in database before test [ROLE_USER, ROLE_ADMIN]</b></h3>
 <ul>
 <li>
 <img height='100px' src='https://objectpartners.com/wp-content/uploads/2015/02/spring-boot-project-logo.png' />
